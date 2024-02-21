@@ -1,4 +1,4 @@
-# **PCA**
+# **Point Cloud Analysis**
 
 ## **File Tree**
 
